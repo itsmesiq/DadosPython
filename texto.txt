@@ -1,0 +1,3 @@
+A programação permite criar soluções para organizar e processar dados.
+Python oferece recursos para manipular listas, arquivos e algoritmos de ordenação.
+Neste trabalho, serão comparados diferentes métodos de ordenação para analisar seu funcionamento e desempenho.
